@@ -3,7 +3,6 @@
 /lib/
 /out/
 /.idea/
-/src/com/epam/esm/main/resources/applicationContext.xml
 *.iml
 **/target/
 /repository/target/
